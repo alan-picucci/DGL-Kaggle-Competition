@@ -1,0 +1,12 @@
+.DS_Store
+dgl_cw2_venv/
+
+__pycache__/
+*.pyc
+predictions_fold_1.csv
+predictions_fold_2.csv
+predictions_fold_3.csv
+kaggle_competition_submission.csv
+wandb/
+
+data-dgl-icl/
