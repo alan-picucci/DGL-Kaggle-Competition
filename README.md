@@ -1,5 +1,5 @@
 # DGL Kaggle Competition: SuperBLTGraph by GrafT-Heory
-This is the repository of the Kaggle Competition team GrafT-Heory. The team members are Yasmine Hemmati, Alex Iordachescu, Hugo Frelin, Igor Sadalski and Alan Piccuci. Our model has the name SuperBLTGraph, which stands for Super Brain Low-resolution Transformation Graph, but also refers to the sandwich arctitecture of the network.
+This is the repository of the Kaggle Competition team GrafT-Heory. The team members are Yasmine Hemmati, Alex Iordachescu, Hugo Frelin, Igor Sadalski and Alan Picucci. Our model has the name SuperBLTGraph, which stands for Super Brain Low-resolution Transformation Graph, but also refers to the sandwich arctitecture of the network.
 
 
 ### Instructions:
